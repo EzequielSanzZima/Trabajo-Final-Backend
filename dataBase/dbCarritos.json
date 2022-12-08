@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": [],
+    "id": 1
+  },
+  {
+    "timestamp": 1670515044601,
+    "productsId": [],
+    "id": 2
+  },
+  {
+    "timestamp": 8,
+    "productsId": [],
+    "id": 3
+  },
+  {
+    "timestamp": "2022-12-08T15:59:03.969Z",
+    "productsId": [],
+    "id": 4
+  },
+  {
+    "timestamp": 1670515198485,
+    "productsId": [],
+    "id": 5
+  },
+  {
+    "timestamp": 1670515203857,
+    "productsId": [],
+    "id": 6
+  },
+  {
+    "productsId": [],
+    "id": 7
+  },
+  {
+    "productsId": [],
+    "id": 8
+  },
+  {
+    "timestamp": 1670515456575,
+    "productsId": [],
+    "id": 9
+  }
+]
